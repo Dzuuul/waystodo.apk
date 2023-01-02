@@ -11,6 +11,6 @@ expo init my-app --template @native-base/expo-template
 ## Package Version
 
 ```sh
- "expo": "^47.0.0",
- "react": "18.1.0",
+ "expo": "^45.0.0",
+ "react": "17.0.2",
 ```
